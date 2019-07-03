@@ -1,0 +1,1 @@
+A simple game of Simon using HTML, CSS, and vanilla JS
